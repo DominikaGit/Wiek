@@ -1,0 +1,3 @@
+/home/dominika/GIT/Wiek/cmake-build-debug/CMakeFiles/Wiek.dir
+/home/dominika/GIT/Wiek/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dominika/GIT/Wiek/cmake-build-debug/CMakeFiles/rebuild_cache.dir
